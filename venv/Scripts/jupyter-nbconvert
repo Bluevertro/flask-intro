@@ -1,0 +1,6 @@
+#!c:\users\regex\desktop\projects\contention\flask-intro\venv\scripts\python.exe
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()

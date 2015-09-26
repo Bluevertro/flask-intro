@@ -1,0 +1,8 @@
+#!c:\users\regex\desktop\projects\contention\flask-intro\venv\scripts\python.exe
+
+def main():
+    from nbformat.sign import TrustNotebookApp
+    TrustNotebookApp.launch_instance()
+
+if __name__ == '__main__':
+    main()
